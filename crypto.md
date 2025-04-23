@@ -77,8 +77,6 @@ Decrypted Message: (5, 1)
 **Result:**  
 The ECC algorithm was successfully implemented for secure key generation and message encryption/decryption.
 
-Perfect! Here are the formatted entries for **Experiments 4 to 7** from your lab manual, including **aim, procedure, program snippets, commands**, and **expected output/result** where applicable.
-
 ---
 
 ## 🔹 **Experiment No. 4**  
